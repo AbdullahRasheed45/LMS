@@ -1,0 +1,18 @@
+.footer-heading-color {
+  background: -webkit-linear-gradient(90deg, #cfa2e8, #637fea);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.main-logotext-color {
+  background: -webkit-linear-gradient(90deg, #4e3e56, #053438);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.icon {
+  /* margin-left: 5px; */
+  /* padding: 0px 3px; */
+  padding-bottom: 2px;
+}
+.fit-content{
+  width: fit-content;
+}
